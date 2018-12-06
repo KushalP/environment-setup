@@ -1,0 +1,6 @@
+---
+
+- name: Check out emacs configuration
+  git:
+    repo: 'git@github.com:KushalP/emacs.d.git'
+    dest: "{{ lookup('env','HOME') }}/.emacs.d"

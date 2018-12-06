@@ -1,0 +1,11 @@
+---
+
+- name: Create Project directory
+  file:
+    path: "{{ lookup('env','HOME') }}/Projects"
+    state: directory
+
+- name: Check out dotfiles repo
+  git:
+    repo: 'git@github.com:KushalP/dotfiles.git'
+    dest: "{{ lookup('env','HOME') }}/Projects/dotfiles"

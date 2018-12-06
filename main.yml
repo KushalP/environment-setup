@@ -5,3 +5,6 @@
   roles:
     - role: geerlingguy.homebrew
       tags: ['homebrew']
+  tasks:
+    - include_tasks: tasks/emacs.yml
+    - include_tasks: tasks/dotfiles.yml
