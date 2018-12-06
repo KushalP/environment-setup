@@ -1,0 +1,10 @@
+
+---
+homebrew_installed_packages:
+  - go
+  - htop
+  - mercurial
+  - ripgrep
+  - tree
+  - unrar
+  - wget
