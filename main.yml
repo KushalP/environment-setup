@@ -7,6 +7,8 @@
   roles:
     - role: geerlingguy.homebrew
       tags: ['homebrew']
+    - role: viasite-ansible.zsh
+      tags: ['zsh']
   tasks:
     - include_tasks: tasks/emacs.yml
     - include_tasks: tasks/dotfiles.yml

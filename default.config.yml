@@ -26,3 +26,7 @@ homebrew_cask_apps:
   - slack
   - slate
   - vagrant
+
+zsh_aliases:
+  - { alias: 'ag', action: 'rg' }
+zsh_antigen_theme: muse
