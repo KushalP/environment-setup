@@ -9,3 +9,4 @@
   git:
     repo: 'git@github.com:KushalP/dotfiles.git'
     dest: "{{ lookup('env','HOME') }}/Projects/dotfiles"
+    update: no
