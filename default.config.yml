@@ -19,5 +19,7 @@ homebrew_cask_apps:
   - emacs
   - firefox
   - google-chrome
+  - iterm2
   - slack
+  - slate
   - vagrant
