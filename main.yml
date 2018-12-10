@@ -2,6 +2,8 @@
 
 - hosts: localhost
   connection: local
+  vars_files:
+    - default.config.yml
   roles:
     - role: geerlingguy.homebrew
       tags: ['homebrew']
