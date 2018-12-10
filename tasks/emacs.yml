@@ -4,3 +4,4 @@
   git:
     repo: 'git@github.com:KushalP/emacs.d.git'
     dest: "{{ lookup('env','HOME') }}/.emacs.d"
+    update: no
