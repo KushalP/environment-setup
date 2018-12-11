@@ -27,6 +27,7 @@ homebrew_cask_apps:
   - iterm2
   - slack
   - slate
+  - spotify
   - vagrant
 
 zsh_aliases:
