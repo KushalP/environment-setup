@@ -36,3 +36,5 @@ homebrew_cask_apps:
 zsh_aliases:
   - { alias: 'ag', action: 'rg' }
 zsh_antigen_theme: muse
+zsh_antigen_bundles_extras:
+  - { name: git, command: git }
