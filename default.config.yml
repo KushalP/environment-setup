@@ -31,6 +31,7 @@ homebrew_cask_apps:
   - slate
   - spotify
   - vagrant
+  - vlc
 
 zsh_aliases:
   - { alias: 'ag', action: 'rg' }
