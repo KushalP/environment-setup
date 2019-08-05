@@ -24,10 +24,12 @@ homebrew_cask_apps:
   - dropbox
   - emacs
   - firefox
+  - intellij-idea-ce
   - iterm2
   - slate
   - spotify
   - vagrant
+  - visual-studio-code
   - vlc
 
 zsh_aliases:
