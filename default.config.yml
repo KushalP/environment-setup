@@ -8,6 +8,7 @@ homebrew_installed_packages:
   - go
   - htop
   - mercurial
+  - rbenv
   - ripgrep
   - shellcheck
   - tree
