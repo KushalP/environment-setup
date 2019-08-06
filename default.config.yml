@@ -3,6 +3,7 @@
 homebrew_installed_packages:
   - autojump
   - elixir
+  - fd
   - fzf
   - git
   - go
@@ -36,6 +37,7 @@ homebrew_cask_apps:
 
 zsh_aliases:
   - { alias: 'ag', action: 'rg' }
+  - { alias: 'find', action: 'fd' }
 zsh_antigen_theme: muse
 zsh_antigen_bundles_extras:
   - { name: git, command: git }
