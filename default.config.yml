@@ -11,6 +11,8 @@ homebrew_installed_packages:
   - mercurial
   - rbenv
   - ripgrep
+  - scala
+  - sbt
   - shellcheck
   - tree
   - unrar
