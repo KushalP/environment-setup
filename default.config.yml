@@ -17,6 +17,7 @@ homebrew_installed_packages:
   - tree
   - unrar
   - wget
+  - yamllint
 
 homebrew_taps:
   - homebrew/cask
