@@ -29,6 +29,7 @@ homebrew_cask_apps:
   - dropbox
   - emacs
   - firefox
+  - fly
   - gpg-suite-no-mail
   - intellij-idea-ce
   - iterm2
