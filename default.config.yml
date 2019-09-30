@@ -33,6 +33,7 @@ homebrew_cask_apps:
   - gpg-suite-no-mail
   - intellij-idea-ce
   - iterm2
+  - notion
   - slate
   - spotify
   - vagrant
